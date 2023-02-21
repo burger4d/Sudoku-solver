@@ -3,6 +3,7 @@ a sudoku solver using brute-force
 
 # How does it works?
 The former algorithm:
+
 function solve()
 
   if no more cells to explore
